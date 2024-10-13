@@ -6,7 +6,7 @@
 <p align="center">
   <h1>What is it?</h1>
   <p>
-    Pumpkin3D is a game engine designed to be a light weight, easily configurable and modern, 3D game engine. It works mainly in a terminal however the user can make thier own configs and make it look and work
+    Pumpkin3D is a game engine designed to be a light weight, easily configurable and modern 3D game engine. It works mainly in a terminal however the user can make thier own configs and make it look and work
     exactly to boost your workflow!
   </p>
 </p>
