@@ -17,7 +17,7 @@
     <h3>Prerequisites</h3>
   </p>
   <p>
-    Python: You will need Python to run the most advanced parts of pumpkin in terms of it's code. Along with that it will probably be installed already on your os.
+    .net: You will need .net to run the most advanced parts of pumpkin in terms of it's code. Along with that it will probably be installed already on your os.
   </p>
   <p>
     Futra: Our own in house Lua runtime, you need this to test and run projects you develop.
@@ -45,7 +45,7 @@ Just run the following commands in your terminal (<i><b>You must have git instal
 then just run the following command and if  the folders are in the same location just run ``
 
     cd pumpkin3d
-    python build.py
+    dotnet build pumpkin3d.csproj
 
 </p>
 And you have now built pumpkin3d from source!
